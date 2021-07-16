@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Demo for showing [project one](https://github.com/Cs586/R-programming/blob/main/Final_Project_final_ChenYe%2CHaotian%2CStanley%2CSelina.ipynb)
 
 ### Jekyll Themes
 
